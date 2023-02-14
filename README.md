@@ -10,7 +10,8 @@ FabFlix is a web-based e-commerce system that allows customers to search for and
 - Add movies to cart, checkout using Stripe API, and view order history
 - Authenticate customers through an API gateway and Identity Management Service
 - Obtain movie data from The Movie Database (TMDB)
-- Web versions available
+- Web versions demonstration available
+-> https://www.youtube.com/watch?v=gZAP6BBeRf4 
 
 ## Technical Details
 ### Backend
